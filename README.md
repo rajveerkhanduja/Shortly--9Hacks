@@ -23,7 +23,7 @@ Clone the repository and install the necessary dependencies.
 
 bash
 Copy code
-git clone https://github.com/your-username/ai-video-generator.git
+git clone https://github.com/rajveerkhanduja/Shortly--9Hacks.git
 cd ai-video-generator
 To install the required libraries, run:
 
